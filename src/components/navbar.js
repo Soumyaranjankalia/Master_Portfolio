@@ -60,7 +60,7 @@ function Navbar() {
             settoggle(!toggle);
           }}
         >
-          <a href="#projects">Portfolio</a>
+          <a href="#projects">Project</a>
         </div>
         <div
           onClick={() => {
