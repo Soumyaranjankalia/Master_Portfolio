@@ -7,8 +7,8 @@ function Form() {
   const [formData, setformData] = useState({});
 
   function Handler(e) {
-    const { name, email, value } = e.target;
-    setformData({ ...formData, [name]: value , [email]: value});
+    const { name,  value } = e.target;
+    setformData({ ...formData, [name]: value });
   }
 
   function submitEmail(e) {
