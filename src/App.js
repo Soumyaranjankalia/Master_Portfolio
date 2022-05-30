@@ -87,7 +87,7 @@ function App() {
         </div>
 
         
-        <div
+        {/* <div
           className="stack-header"
           style={{ marginBottom: "45px" }}
           data-aos={"fade-right"}
@@ -96,7 +96,7 @@ function App() {
         </div>
         <div className="project_div">
           <Projects />
-        </div>
+        </div> */}
       </div>
       <div id="contact" style={{ height: "15vh" }}></div>
       <Footer />
