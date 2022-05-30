@@ -84,3 +84,9 @@
     margin: 0.5rem;
   }
 }
+.my-details{
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 10px;
+  margin-bottom:50px;
+}

@@ -9,6 +9,10 @@ function Footer() {
         <h2 className="head">Contact me</h2>
       </div>
       <Form />
+      <div className="credit my-details">
+        <p><b>Email</b> - a2soumya.ranjan@gmail.com</p>
+        <p><b>Phone no.</b> - 9337796143</p>
+      </div>
       <div className="footer__div">
         <div>
           <span>
